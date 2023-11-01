@@ -92,8 +92,7 @@ const Home = () => {
                   <div className="experience__content">
                      <Subtitle subtitle={'Experience'} />
                      <h2>With our all experience <br /> we will serve you</h2>
-                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                        <br /> Quas aliquam, hic tempora inventore suscipit unde. </p>
+                     
                   </div>
 
                   <div className="counter__wrapper d-flex align-items-center gap-5">
@@ -135,23 +134,7 @@ const Home = () => {
             </Row>
          </Container>
       </section>
-      {/* ========== GALLERY SECTION END ================ */}
-
-      {/* ========== TESTIMONIAL SECTION START ================ */}
-      {/* <section>
-         <Container>
-            <Row>
-               <Col lg='12'>
-                  <Subtitle subtitle={'Fans Love'} />
-                  <h2 className="testimonial__title">What our fans say about us</h2>
-               </Col>
-               <Col lg='12'>
-                  <Testimonials />
-               </Col>
-            </Row>
-         </Container>
-      </section> */}
-      {/* ========== TESTIMONIAL SECTION END ================== */}
+      
       <NewsLetter />
    </>
 }

@@ -68,36 +68,6 @@ export const About = () => {
 
               </span>
             </ul>
-            {/* <h1 className="Meeth1">Our Top Tours</h1>
-          <Row>
-            <Col md="6">
-             
-              <img id="Gal1" src={Gal1} alt="Gallery Image" />
-             
-              <p className="pjs">
-                With our tour management services, you can sit back, relax, and
-                enjoy your journey while we handle all the details.
-              </p>
-            </Col>
-            <Col md="3">
-              <img id="Gal2" src={Gal2} alt="Gallery Image" />
-              <p className="pjs">
-             <b> 14 of the Best Thing's to do in Berlin</b>
-              </p>
-              <p className="pjs">
-              With one of the top nightlife scenes in the world and fascinating historic sites to explore, here are Berlin's best experiences.
-              </p>
-            </Col>
-            <Col md="3">
-              <img id="Gal2" src={Gal3} alt="Gallery Image" />
-              <p className="pjs">
-             <b> How to get around Iceland, from the highest peaks to the deepest fjords</b>
-              </p>
-              <p className="pjs">
-              It may be small but Iceland can be mightily difficult to get around. The scale and savagery of the landscape make traveling tricky – here's how to do it.
-              </p>
-            </Col>
-          </Row> */}
             <section>
               <Container>
                 <Row>
