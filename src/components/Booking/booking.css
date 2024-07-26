@@ -83,3 +83,26 @@
    transform: scale(1.1);
    transition: 0.5s;
 }
+
+/* Add this to your booking.css file or equivalent */
+
+.booking__info-form {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+
+.booking__info-form input {
+   padding: 8px;
+   border: 1px solid #ccc;
+}
+
+.booking__info-form input.error {
+   border: 1px solid red;
+}
+
+.booking__info-form .error {
+   color: red;
+   font-size: 14px;
+   margin-top: 4px;
+}
