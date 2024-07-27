@@ -10,7 +10,7 @@ import Tours from './../pages/Tours'
 import About from './../pages/About'
 
 // import BookingList from './../components/Booking/BookingList'
-import AddBooking from './../components/Booking/AddBooking'
+// import AddBooking from './../components/Booking/AddBooking'
 // import EditBooking from './../components/Booking/EditBooking'
 // import ViewBooking from './../components/Booking/ViewBooking'
 
